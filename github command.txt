@@ -1,0 +1,26 @@
+git init
+
+git status
+
+git add .
+
+git status
+
+git commit -m "first commit" .
+
+git status
+
+git remot... link on github
+
+git push -u origin master
+
+
+for update
+
+git status
+
+git add .
+
+git commit -m "..."
+
+git push origin master(branch name)
