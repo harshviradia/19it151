@@ -1,0 +1,7 @@
+	!!!!!!!!!!!Allocate Time Slot!!!!!!!!!!!!
+
+Date			Allocate Time
+
+12/8/2020		                    9:30    table no:-4
+12/8/2020		                    9:30    table no:-4
+14/9/2020		                    9:30    table no:-2
